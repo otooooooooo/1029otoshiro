@@ -1,0 +1,26 @@
+@import url(http://fonts.googleapis.com/css?family=Indie+Flower);
+ html {
+    height:100%;
+}
+body {
+    height:100%;
+    padding:0;
+    margin:0;
+    font-family:'Indie Flower', cursive;
+}
+#canvas {
+    position:absolute;
+    top:0;
+    left:0;
+    background:#000;
+    margin:0;
+    padding:0;
+}
+#info {
+    position:absolute;
+    color:#fff;
+    text-align:center;
+    cursor:pointer;
+    font-size:24px;
+    font-weight: bold;
+}
